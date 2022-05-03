@@ -1,0 +1,6 @@
+openpyxl
+scipy
+ipywidgets
+plotly
+bqplot
+ipydatagrid
